@@ -1,0 +1,9 @@
+﻿Sure, we're connected with three types of services (1)General (2)Dentist Please select one of them (1/2).
+
+a1 General (your appointment has been set on 1 December 2020 at).
+
+a2 General (your appointment has been set on 2 December 2020 at).
+
+a3 General (your appointment has been set on 3 December 2020 at).
+
+a4 General (your appointment has been set on 4 December 2020 at).

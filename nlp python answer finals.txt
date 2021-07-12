@@ -1,0 +1,187 @@
+﻿flu is a viral infection that attacks your respiratory system.
+
+fever is a temporary increase in your body temperature, often due to an illness.
+
+Cough is a common reflex action that clears your throat of mucus or foreign irritants.
+
+Diarrhea is loose stools three or more times in one day.
+
+sore throat is pain, scratchiness or irritation of the throat that often worsens when you swallow.
+
+constipation is infrequent bowel movements or difficult passage of stools that persists for several weeks or longer.
+
+canker sore is an inflammation of the mouth that is painful, so it can disturb the sufferer from eating, talking, and sleeping.
+
+Toothache, also known as dental pain, is pain in the teeth or their supporting structures. 
+
+Hemorrhoids, also called piles, are swollen veins in your anus and lower rectum, similar to varicose veins.
+
+Hypertension is when blood pressure is too high.
+
+Hypotension is when blood pressure is too low.
+
+boils is a painful, pus-filled bump that forms under your skin when bacteria infect.
+
+cataract is an opacification of the lens of the eye which leads to a decrease in visio.
+
+A nearsighted person sees near objects clearly, while objects in the distance are blurred.
+
+A farsighted person sees faraway objects clearly, while objects that are near are blurred.
+
+Diabetes is the condition in which the body does not properly process food for use as energy. 
+
+fl (flu) solution are drink enough mineral water, washing your hands regularly, and practicing good hygiene.
+
+fv (fever) solution are Proper hygiene:Wash hands frequently, avoid contact with sick people, and make sure immunizations are up to date.
+
+cg (cough) solution are stay hydrated, do not smoke or use tobacco products, and inhale steam in a shower, or use a cool-mist humidifier to relieve dry cough.
+
+dr (diarrhea) solution are drink plenty of clear liquids, avoid caffeine, alcohol, add semisolid and low-fiber foods gradually as your bowel movements return to normal.
+
+srt (sore throat) solution are try comforting foods and beverage like Warm liquids — broth, caffeine-free tea or warm water with honey — and cold treats such as ice pops can soothe a sore throat.
+
+cnst (constipation) solution is try to eat more fiber, vegetables, and fruit.
+
+cnks (canker sores) solution are rinsing your mouth with salt water, use alum powder, and honey.
+
+tta (toothache) solution are saltwater rinse, cold compress, and otc anesthetics.
+
+hmd (hemoroids) solution are eat high fiber foods, use topical treatments, and soak regularly in a warm bath.
+
+hper (hypertension) solution areExercise regularly, Quit smoking, and Eat a healthy diet.
+
+hpo (hypotension) solution are Drink more water, Use more salt, and Medications.
+
+bls (boils) solution are place a warm like wet washcloth on the boil and use unguent on it.
+
+ctr (cataract) the only solution for it is surgery.
+
+nrs (nearsighted) solution are use eyeglasses, contact lenses or refractive surgery.
+
+frs (farsight) solution are use eyeglasses, contact lenses or refractive surgery.
+
+dbt (diabetes) solution are diabetes diet, weight reduction, and exercise.
+
+a1 You choose General (your appointment has been set on 1 December 2020 ).
+
+a2 You choose General (your appointment has been set on 2 December 2020 ).
+
+a3 You choose General (your appointment has been set on 3 December 2020 ).
+
+a4 You choose General (your appointment has been set on 4 December 2020 ).
+
+a5 You choose General (your appointment has been set on 5 December 2020 ).
+
+a6 You choose General (your appointment has been set on 6 December 2020 ).
+
+a7 You choose General (your appointment has been set on 7 December 2020 ).
+
+a8 You choose General (your appointment has been set on 8 December 2020 ).
+
+a9 You choose General (your appointment has been set on 9 December 2020 ).
+
+a10 You choose General (your appointment has been set on 10 December 2020 ).
+
+a11 You choose General (your appointment has been set on 11 December 2020 ).
+
+a12 You choose General (your appointment has been set on 12 December 2020 ).
+
+a13 You choose General (your appointment has been set on 13 December 2020 ).
+
+a14 You choose General (your appointment has been set on 14 December 2020 ).
+
+a15 You choose General (your appointment has been set on 15 December 2020 ).
+
+a16 You choose General (your appointment has been set on 16 December 2020 ).
+
+a17 You choose General (your appointment has been set on 17 December 2020 ).
+
+a18 You choose General (your appointment has been set on 18 December 2020 ).
+
+a19 You choose General (your appointment has been set on 19 December 2020 ).
+
+a20 You choose General (your appointment has been set on 20 December 2020 ).
+
+a21 You choose General (your appointment has been set on 21 December 2020 ).
+
+a22 You choose General (your appointment has been set on 22 December 2020 ).
+
+a23 You choose General (your appointment has been set on 23 December 2020 ).
+
+a24 You choose General (your appointment has been set on 24 December 2020 ).
+
+a25 You choose General (your appointment has been set on 25 December 2020 ).
+
+a26 You choose General (your appointment has been set on 26 December 2020 ).
+
+a27 You choose General (your appointment has been set on 27 December 2020 ).
+
+a28 You choose General (your appointment has been set on 28 December 2020 ).
+
+a29 You choose General (your appointment has been set on 29 December 2020 ).
+
+a30 You choose General (your appointment has been set on 30 December 2020 ).
+
+a31 You choose General (your appointment has been set on 31 December 2020 ).
+
+b1 You choose Dentist (your appointment has been set on 1 December 2020 ).
+
+b2 You choose Dentist (your appointment has been set on 2 December 2020 ).
+
+b3 You choose Dentist (your appointment has been set on 3 December 2020 ).
+
+b4 You choose Dentist (your appointment has been set on 4 December 2020 ).
+
+b5 You choose Dentist (your appointment has been set on 5 December 2020 ).
+
+b6 You choose Dentist (your appointment has been set on 6 December 2020 ).
+
+b7 You choose Dentist (your appointment has been set on 7 December 2020 ).
+
+b8 You choose Dentist (your appointment has been set on 8 December 2020 ).
+
+b9 You choose Dentist (your appointment has been set on 9 December 2020 ).
+
+b10 You choose Dentist (your appointment has been set on 10 December 2020 ).
+
+b11 You choose Dentist (your appointment has been set on 11 December 2020 ).
+
+b12 You choose Dentist (your appointment has been set on 12 December 2020 ).
+
+b13 You choose Dentist (your appointment has been set on 13 December 2020 ).
+
+b14 You choose Dentist (your appointment has been set on 14 December 2020 ).
+
+b15 You choose Dentist (your appointment has been set on 15 December 2020 ).
+
+b16 You choose Dentist (your appointment has been set on 16 December 2020 ).
+
+b17 You choose Dentist (your appointment has been set on 17 December 2020 ).
+
+b18 You choose Dentist (your appointment has been set on 18 December 2020 ).
+
+b19 You choose Dentist (your appointment has been set on 19 December 2020 ).
+
+b20 You choose Dentist (your appointment has been set on 20 December 2020 ).
+
+b21 You choose Dentist (your appointment has been set on 21 December 2020 ).
+
+b22 You choose Dentist (your appointment has been set on 22 December 2020 ).
+
+b23 You choose Dentist (your appointment has been set on 23 December 2020 ).
+
+b24 You choose Dentist (your appointment has been set on 24 December 2020 ).
+
+b25 You choose Dentist (your appointment has been set on 25 December 2020 ).
+
+b26 You choose Dentist (your appointment has been set on 26 December 2020 ).
+
+b27 You choose Dentist (your appointment has been set on 27 December 2020 ).
+
+b28 You choose Dentist (your appointment has been set on 28 December 2020 ).
+
+b29 You choose Dentist (your appointment has been set on 29 December 2020 ).
+
+b30 You choose Dentist (your appointment has been set on 30 December 2020 ).
+
+b31 You choose Dentist (your appointment has been set on 31 December 2020 ).
